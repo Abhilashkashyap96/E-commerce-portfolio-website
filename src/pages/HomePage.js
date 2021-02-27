@@ -39,6 +39,7 @@ class Home extends React.Component {
         <input onChange={this.onChange} value={this.state.name} />
         <h1>{this.state.name}</h1>
         <button onClick={this.hideTopBar}>Unmount</button>
+        <h1>Home</h1>
       </div>
     );
   };
