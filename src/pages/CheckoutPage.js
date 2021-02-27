@@ -9,7 +9,7 @@ class Checkout extends React.Component {
   render () {
     return (
       <div>
-        <h1>This is checkout</h1>
+        <h1>This is checkout page</h1>
       </div>
     );
   };
